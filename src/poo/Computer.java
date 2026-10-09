@@ -13,4 +13,8 @@ public class Computer {
         this.storage = storage;
     }
 
+    public Computer(){
+        System.out.println("sin paraemtros ");
+    }
+
 }

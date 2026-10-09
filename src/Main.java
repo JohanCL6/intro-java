@@ -8,5 +8,7 @@ public class Main {
 
         Computer computer = new Computer("HP", "ZA", 12, 128 );
         System.out.println(computer.marca +" | "+ computer.modelo  );
+        Computer computer2 = new Computer();
+
     }
 }
